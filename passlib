@@ -1,0 +1,8 @@
+ #This is a list of passwords for the Bandit wargame to be read by banditpass.sh
+ #Keep the { \n "#<LEVEL_NUMBER>" \n "<PASSWD>" \n } styling otherwise banditpass will break
+
+#Level 1
+boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+
+#Level 2
+CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
